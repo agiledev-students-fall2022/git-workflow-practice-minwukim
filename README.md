@@ -4,3 +4,9 @@ As written in the article by NYT's [An A.I.-Generated Picture Won an Art Prize. 
 
 This event engenders an interesting and important philosophical question: is it valid to give the award to Mr.Allen? Well, my answer for this question is yes. This is actually a question answered by Marcel Duchamp's *Fountain*. Although the artist didn't craft that artifact, but it was Mr. Duchamp himself that made the choice to take porcelain urinal as the artwork. Same logic applies to the case of Mr.Allen. The artist never drew the image by himself, but at the end he decided to pick the image and submit it to the art competition. Therefore, there is nothing wrong with him getting all the credits of the award.
 
+## Genie Hou's edit 
+This is truly an interesting event and I think the way you mentioned Duchamp is such an unique perspective. 
+I haven't make that connection between Dadaism and AI made image until you pointed it out. It makes a lot of sense that it is the choice that the artist made regarding what he perceives as art that counts.
+In the article, however, I don't agree with the artist. He said "art is dead that's it AI won." But that is just false.
+AI requires machine learning a huge amount of Data entry to for it to learn how to do things. So when the AI is learning how to paint it had to learn from all the other painters out there. 
+Just like any other painter. It requires mimicking and learning from others. On tha note, I think the award should be given to the AI program Midjourney. The artist really just submitted it.
